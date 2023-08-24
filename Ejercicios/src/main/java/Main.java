@@ -53,6 +53,7 @@ public class Main {
                     }
                     System.out.println(ej.printArray(arreglo,n));
             }
+            
         }while(numOpcion!=0);
     }
 }
